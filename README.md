@@ -72,6 +72,8 @@
 
 <p align="center">¡Feliz Código!💻✨</p>
 
-  <img src="https://media.giphy.com/media/3o6ZtehOE6PnV6VfCg/giphy.gif" alt="Coding GIF">
-    <img src="https://media.giphy.com/media/xT5LMz4BvT3FzSEEN6/giphy.gif" alt="Code Party GIF">
-    <img src="https://media.giphy.com/media/l0HlHFRBbVbP7tnKU/giphy.gif" alt="Developer GIF"> 
+ <p align="center">
+    <img src="https://media.giphy.com/media/3o7bubf6bPonRjAAEo/giphy.gif" width="250" alt="Coding">
+    <img src="https://media.giphy.com/media/l3vR8gdtHhzmsKXoc/giphy.gif" width="250" alt="Code Quality">
+    <img src="https://media.giphy.com/media/l0Iy8awvCuZKxW8es/giphy.gif" width="250" alt="Testing">
+  </p>
