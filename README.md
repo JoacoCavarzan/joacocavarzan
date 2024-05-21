@@ -54,8 +54,7 @@
 ## <h2 align="center">🚀 Aquí verás algunos de mis proyectos en los que he trabajado</h2>
 
 
-## <h2 align="center">📫 ¡No dudes en contactarme! <a href="mailto:correo@example.com">correo@example.com</a> </h2>
-<a href="mailto:correo@example.com">correo@example.com</a>
+## <h2 align="center">📫 ¡No dudes en contactarme! <a href="joacocava@gmail.com">joacocava@.gmail.com</a> </h2>
 
 <p align="center">
   <strong>¡Gracias por visitar mi perfil!</strong> 😊
