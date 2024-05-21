@@ -73,17 +73,20 @@
 <p align="center">¡Feliz Código!💻✨</p>
 
 
-
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Programando" width="300px">
-
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Código" width="200"/>
-
- <h3>Algunos gifs divertidos para alegrar tu día:</h3>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Gif">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Developer Gif">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Cat Coding Gif">
-  <img src="https://media.giphy.com/media/l3V0exRfJCMrlA5Kk/giphy.gif" alt="Programmer Gif">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Coding Cat Gif">
-  <img src="https://media.giphy.com/media/l2SpQRuCJkme2yFw8/giphy.gif" alt="Coding Party Gif">
-  
+
+  <h2>¡Diviértete con estos GIFs!</h2>
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="GIF 1">
+    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="GIF 2">
+    <img src="https://media.giphy.com/media/l46CbZ7KpJiKntFO4/giphy.gif" alt="GIF 3">
+    <img src="https://media.giphy.com/media/SRO0ZwmImic0/giphy.gif" alt="GIF 4">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF 5">
+
+  <h2>Fun GIFs</h2>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Funny GIF 1" width="200">
+  <img src="https://media.giphy.com/media/1iTItUOopPjTGlE2/giphy.gif" alt="Funny GIF 2" width="200">
+  <img src="https://media.giphy.com/media/MOWPkhRAUb3g8/giphy.gif" alt="Funny GIF 3" width="200">
+
+<img src="https://media.giphy.com/media/UqxVRmmbu5w4c/giphy.gif" alt="Coding cat" width="200"/>
+    <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="Coding dog" width="200"/>
+    <img src="https://media.giphy.com/media/VgJH1GKwzTQ2w/giphy.gif" alt="Coding parrot" width="200"/>
