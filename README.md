@@ -54,11 +54,7 @@
 ## <h2 align="center">🚀 Aquí verás algunos de mis proyectos en los que he trabajado</h2>
 
 
-## <h2 align="center">📫 Contacto</h2>
-
-<p align="center">
-  Si tienes alguna pregunta o quieres colaborar en un proyecto, ¡no dudes en contactarme!
-</p>
+## <h2 align="center">📫 Si tienes alguna pregunta o quieres colaborar en un proyecto, ¡no dudes en contactarme!</h2>
 
 
 <p align="center">
@@ -74,11 +70,19 @@
 </p>
 
   
- <h2>¡Disfruta de estos GIFs divertidos!</h2>
-    <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Coding GIF">
-    <img src="https://media.giphy.com/media/3o7aDczIqqHIzUfFt8/giphy.gif" alt="Excited GIF">
-    <img src="https://media.giphy.com/media/3o7TKFmJYHPuQAW6sg/giphy.gif" alt="Dance GIF">
-    <img src="https://media.giphy.com/media/3o7TKD6S4I9vT8IhwI/giphy.gif" alt="Coding Cat GIF">
-    <img src="https://media.giphy.com/media/3ohzdZrWhRimJBkEE4/giphy.gif" alt="Happy Coding GIF">
+<h2 align="center">Mis Habilidades</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J3Cbz2WutuPjG0U/giphy.gif" width="150" alt="HTML5">
+  <img src="https://media.giphy.com/media/zy0C35njc3L9lO8buj/giphy.gif" width="150" alt="CSS3">
+  <img src="https://media.giphy.com/media/9JF4XxAKnSc6Y4SiHm/giphy.gif" width="150" alt="JavaScript">
+  <img src="https://media.giphy.com/media/dU4uTglcXQpr6/giphy.gif" width="150" alt="Python">
+</p>
+
+<h2 align="center">Mis Proyectos Destacados</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/10dDBIrcnKTqVG/giphy.gif" width="200" alt="Proyecto 1">
+  <img src="https://media.giphy.com/media/9PQ3X9W3D2wOY/giphy.gif" width="200" alt="Proyecto 2">
+  <img src="https://media.giphy.com/media/1zSz5MVw4z5KRyhMH7/giphy.gif" width="200" alt="Proyecto 3">
+</p>
 
 
