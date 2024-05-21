@@ -30,15 +30,7 @@
 </p>
 
 <p>
-  <strong>Lenguajes y Tecnologías:</strong>
-  <ul>
-    <li>JavaScript (React, Node.js) 🟨</li>
-    <li>Python (Django, Flask) 🐍</li>
-    <li>Java (Spring Boot) ☕</li>
-    <li>SQL y NoSQL (MySQL, MongoDB) 🗃️</li>
-    <li>Docker y Kubernetes 🐳</li>
-    <li>AWS y Azure ☁️</li>
-  </ul>
+✨ Si buscas un profesional apasionado y comprometido con la tecnología, ¡Estoy listo para ser parte de tu equipo! ✨
 </p>
 
 ## <h2 align="center">📈 Estadísticas de GitHub</h2>
