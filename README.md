@@ -66,27 +66,19 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2rtQMJvhzOnRe/giphy.gif" width="400" height="200" alt="Gracias por visitar mi perfil">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Gif">
 </p>
 
+<p align="center">
+  <strong>¡Feliz Código!💻✨</strong> 😊
+</p>
 
-<p align="center">¡Feliz Código!💻✨</p>
+  
+ <h2>¡Disfruta de estos GIFs divertidos!</h2>
+    <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Coding GIF">
+    <img src="https://media.giphy.com/media/3o7aDczIqqHIzUfFt8/giphy.gif" alt="Excited GIF">
+    <img src="https://media.giphy.com/media/3o7TKFmJYHPuQAW6sg/giphy.gif" alt="Dance GIF">
+    <img src="https://media.giphy.com/media/3o7TKD6S4I9vT8IhwI/giphy.gif" alt="Coding Cat GIF">
+    <img src="https://media.giphy.com/media/3ohzdZrWhRimJBkEE4/giphy.gif" alt="Happy Coding GIF">
 
 
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Gif">
-
-  <h2>¡Diviértete con estos GIFs!</h2>
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="GIF 1">
-    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="GIF 2">
-    <img src="https://media.giphy.com/media/l46CbZ7KpJiKntFO4/giphy.gif" alt="GIF 3">
-    <img src="https://media.giphy.com/media/SRO0ZwmImic0/giphy.gif" alt="GIF 4">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF 5">
-
-  <h2>Fun GIFs</h2>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Funny GIF 1" width="200">
-  <img src="https://media.giphy.com/media/1iTItUOopPjTGlE2/giphy.gif" alt="Funny GIF 2" width="200">
-  <img src="https://media.giphy.com/media/MOWPkhRAUb3g8/giphy.gif" alt="Funny GIF 3" width="200">
-
-<img src="https://media.giphy.com/media/UqxVRmmbu5w4c/giphy.gif" alt="Coding cat" width="200"/>
-    <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="Coding dog" width="200"/>
-    <img src="https://media.giphy.com/media/VgJH1GKwzTQ2w/giphy.gif" alt="Coding parrot" width="200"/>
