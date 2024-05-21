@@ -76,9 +76,14 @@
 
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Programando" width="300px">
 
-<p align="center"><img src="https://media.giphy.com/media/l0Iy1zNkzE3B5Ujle/giphy.gif" alt="Gracias" width="150"/></p>
-   <p align="center">
-        <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" alt="Programando" width="200"/>
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Código" width="200"/>
-        <img src="https://media.giphy.com/media/2Ygy0khwewLgms5CsU/giphy.gif" alt="Desarrollando" width="200"/>
-    </p>
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Código" width="200"/>
+
+ <h3>Algunos gifs divertidos para alegrar tu día:</h3>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Gif">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Developer Gif">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Cat Coding Gif">
+  <img src="https://media.giphy.com/media/l3V0exRfJCMrlA5Kk/giphy.gif" alt="Programmer Gif">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Coding Cat Gif">
+  <img src="https://media.giphy.com/media/l2SpQRuCJkme2yFw8/giphy.gif" alt="Coding Party Gif">
+  
