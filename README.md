@@ -72,8 +72,26 @@
 
 <p align="center">¡Feliz Código!💻✨</p>
 
- <p align="center">
-    <img src="https://media.giphy.com/media/3o7bubf6bPonRjAAEo/giphy.gif" width="250" alt="Coding">
-    <img src="https://media.giphy.com/media/l3vR8gdtHhzmsKXoc/giphy.gif" width="250" alt="Code Quality">
-    <img src="https://media.giphy.com/media/l0Iy8awvCuZKxW8es/giphy.gif" width="250" alt="Testing">
-  </p>
+<p align="center">
+        <img src="https://media.giphy.com/media/l4FGpJbLwkZiR10PS/giphy.gif" alt="HTML5" width="100px">
+        <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="CSS3" width="100px">
+        <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="JavaScript" width="100px">
+        <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="React" width="100px">
+        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Node.js" width="100px">
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Python" width="100px">
+        <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Git" width="100px">
+        <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="Docker" width="100px">
+    </p>
+
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Programando" width="300px">
+
+<p align="center">
+        <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ8/giphy.gif" alt="Proyecto 1" width="200px">
+        <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ8/giphy.gif" alt="Proyecto 2" width="200px">
+        <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ8/giphy.gif" alt="Proyecto 3" width="200px">
+    </p>
+<p align="center">
+        <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ8/giphy.gif" alt="Proyecto 1" width="200px">
+        <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ8/giphy.gif" alt="Proyecto 2" width="200px">
+        <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ8/giphy.gif" alt="Proyecto 3" width="200px">
+    </p>
