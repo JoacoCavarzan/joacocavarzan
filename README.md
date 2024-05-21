@@ -29,9 +29,10 @@
   Tengo experiencia en el desarrollo de aplicaciones web, estoy en constante aprendizaje y disfruto trabajar con tecnologías tanto del frontend como del backend.
 </p>
 
-<p>
-✨ Si buscas un profesional apasionado y comprometido con la tecnología, ¡Estoy listo para ser parte de tu equipo! ✨
+<p align="center">
+  <strong>✨ Si buscas un profesional apasionado y comprometido con la tecnología, ¡Estoy listo para ser parte de tu equipo! ✨ </strong>
 </p>
+
 
 ## <h2 align="center">📈 Estadísticas de GitHub</h2>
 
