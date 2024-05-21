@@ -8,7 +8,7 @@
   <strong>Graduated Software Engineer | Systems Analyst | Web Developer | AI Learning | Python | JavaScript</strong>
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
@@ -69,12 +69,10 @@
   <img src="https://media.giphy.com/media/2rtQMJvhzOnRe/giphy.gif" width="400" height="200" alt="Gracias por visitar mi perfil">
 </p>
 
- <p align="center">
-    <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Gif de Conexión" width="400">
-  </p>
-    <p align="center">
-    <img src="https://media.giphy.com/media/l4FGA3FAbAah4Msak/giphy.gif" alt="Gif de Programación" width="400">
-  </p>
-  <h2 align="center">¡Feliz Código! 🚀</h2>
+  <p align="center">
+        <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" alt="Coding" width="300">
+        <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="Developer" width="300">
+   </p>
+  <h2 align="center">¡Feliz Código!💻✨</h2>
 
   
