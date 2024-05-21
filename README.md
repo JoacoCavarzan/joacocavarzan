@@ -1,4 +1,4 @@
-# <h1 align="center">👨‍💻 Hello, World! Soy Joaco 👋</h1>
+# <h1 align="center">Hello, World! Soy Joaco 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
@@ -72,17 +72,23 @@
   
 <h2 align="center">Mis Habilidades</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J3Cbz2WutuPjG0U/giphy.gif" width="150" alt="HTML5">
-  <img src="https://media.giphy.com/media/zy0C35njc3L9lO8buj/giphy.gif" width="150" alt="CSS3">
-  <img src="https://media.giphy.com/media/9JF4XxAKnSc6Y4SiHm/giphy.gif" width="150" alt="JavaScript">
-  <img src="https://media.giphy.com/media/dU4uTglcXQpr6/giphy.gif" width="150" alt="Python">
+  <img src="https://media.giphy.com/media/xThtanBNix6xTf3GrW/giphy.gif" width="150" alt="HTML5">
+  <img src="https://media.giphy.com/media/3ohhwhCt67LX8GlC0E/giphy.gif" width="150" alt="CSS3">
+  <img src="https://media.giphy.com/media/13YrHUvPzUUmkM/giphy.gif" width="150" alt="JavaScript">
+  <img src="https://media.giphy.com/media/11wQNDhA2Ifk1C/giphy.gif" width="150" alt="Python">
 </p>
 
 <h2 align="center">Mis Proyectos Destacados</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/10dDBIrcnKTqVG/giphy.gif" width="200" alt="Proyecto 1">
-  <img src="https://media.giphy.com/media/9PQ3X9W3D2wOY/giphy.gif" width="200" alt="Proyecto 2">
-  <img src="https://media.giphy.com/media/1zSz5MVw4z5KRyhMH7/giphy.gif" width="200" alt="Proyecto 3">
+  <img src="https://media.giphy.com/media/3o7ZeL4sQpXdxZTE92/giphy.gif" width="200" alt="Proyecto 1">
+  <img src="https://media.giphy.com/media/dOJt6XZlQw8qQ/giphy.gif" width="200" alt="Proyecto 2">
+  <img src="https://media.giphy.com/media/26tPcVAWLFjQa32Nq/giphy.gif" width="200" alt="Proyecto 3">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btQhQKZhBXjAXde/giphy.gif" width="300" alt="Contacto">
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26BkNitu8H8iDn0BW/giphy.gif" width="300" alt="Cierre">
+</p>
