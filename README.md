@@ -69,10 +69,9 @@
   <img src="https://media.giphy.com/media/2rtQMJvhzOnRe/giphy.gif" width="400" height="200" alt="Gracias por visitar mi perfil">
 </p>
 
-  <p align="center">
-        <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" alt="Coding" width="300">
-        <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="Developer" width="300">
-   </p>
-  <h2 align="center">¡Feliz Código!💻✨</h2>
 
-  
+<p align="center">¡Feliz Código!💻✨</p>
+
+  <img src="https://media.giphy.com/media/3o6ZtehOE6PnV6VfCg/giphy.gif" alt="Coding GIF">
+    <img src="https://media.giphy.com/media/xT5LMz4BvT3FzSEEN6/giphy.gif" alt="Code Party GIF">
+    <img src="https://media.giphy.com/media/l0HlHFRBbVbP7tnKU/giphy.gif" alt="Developer GIF"> 
