@@ -17,7 +17,7 @@
 
 <p>
   Soy un ingeniero en software con pasión por resolver problemas y construir aplicaciones innovadoras. 
-  Tengo experiencia en el desarrollo de aplicaciones web y móviles, y disfruto trabajar con tecnologías tanto del frontend como del backend.
+  Tengo experiencia en el desarrollo de aplicaciones web, estoy en constante aprendizaje y disfruto trabajar con tecnologías tanto del frontend como del backend.
 </p>
 
 <p>
@@ -31,11 +31,19 @@
     <li>AWS y Azure ☁️</li>
   </ul>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=green">
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED">
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5">
+</p>
 
 ## <h2 align="center">📈 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joacocavarzano&show_icons=true&theme=radical" alt="Estadísticas de GitHub de [Tu Nombre]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joacocavarzan&show_icons=true&theme=radical" alt="Estadísticas de GitHub de [Tu Nombre]" />
 </p>
 
 <p align="center">
@@ -45,7 +53,7 @@
 ## <h2 align="center">🌟 Proyectos Destacados</h2>
 
 <p>
- 🚀 Aquí verás algunos de mis proyectos en los que he trabajado:
+ 🚀 Aquí verás algunos de mis proyectos en los que he trabajado
 </p>
 
 
@@ -62,4 +70,13 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/2rtQMJvhzOnRe/giphy.gif" width="400" height="200" alt="Gracias por visitar mi perfil">
+</p>
+
+ <div class="center">
+        <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" alt="Thank You Gif" class="gif">
+    </div>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300" align="center"/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6vWloGaBUuJEA/giphy.gif" width="200"/>
 </p>
