@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Graduated Software Engineer | Systems Analyst | Web Developer | AI Learning </strong>
+  <strong>Graduate Software Engineer | Systems Analyst | Web Developer | AI Learning </strong>
 </p>
 
 <p align="center">
