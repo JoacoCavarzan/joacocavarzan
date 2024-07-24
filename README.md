@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <strong>¡Feliz Código!💻✨</strong> 😊
+  <strong>¡Feliz Código!💻</strong> 
 </p>
 
 
