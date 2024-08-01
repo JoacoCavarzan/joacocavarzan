@@ -54,7 +54,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Gif">
+  <img src="https://github.com/JoacoCavarzan/Industria4.0/blob/main/video.gif" alt="video-gif">
+  <!--<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Gif"> -->
 </p>
 
 <p align="center">
