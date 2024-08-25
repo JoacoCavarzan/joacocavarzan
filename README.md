@@ -25,7 +25,7 @@
 ## <h2 align="center">🚀 Sobre Mí</h2>
 
 <p>
-  Soy un ingeniero en software con pasión por resolver problemas y construir aplicaciones innovadoras. 
+  Soy ingeniero en software con pasión por resolver problemas y construir aplicaciones innovadoras. 
   Tengo experiencia en el desarrollo de aplicaciones web, estoy en constante aprendizaje y disfruto trabajar con tecnologías tanto del frontend como del backend.
 </p>
 
