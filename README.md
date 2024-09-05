@@ -43,7 +43,7 @@
 ## <h2 align="center">📈 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical" alt="Estadísticas de GitHub de [Tu Nombre]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joacocavarzan&show_icons=true&theme=radical" alt="Estadísticas de GitHub de [Tu Nombre]" />
 </p>
 
 <p align="center">
